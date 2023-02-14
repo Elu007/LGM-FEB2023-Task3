@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/LGM-FEB2023-Task3/static/css/main.ed9d85fc.css",
+    "main.js": "/LGM-FEB2023-Task3/static/js/main.7a2b7910.js",
+    "index.html": "/LGM-FEB2023-Task3/index.html",
+    "main.ed9d85fc.css.map": "/LGM-FEB2023-Task3/static/css/main.ed9d85fc.css.map",
+    "main.7a2b7910.js.map": "/LGM-FEB2023-Task3/static/js/main.7a2b7910.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ed9d85fc.css",
+    "static/js/main.7a2b7910.js"
+  ]
+}
